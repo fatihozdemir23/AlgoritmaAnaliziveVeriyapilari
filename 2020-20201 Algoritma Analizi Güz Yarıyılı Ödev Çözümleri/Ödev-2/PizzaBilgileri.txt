@@ -1,0 +1,4 @@
+P1,Buyuk,1000,1000
+P2,OrtaBoy,500,600
+P3,Kucuk_Boy,300,400
+P4,Dilim_Pizza,100,200

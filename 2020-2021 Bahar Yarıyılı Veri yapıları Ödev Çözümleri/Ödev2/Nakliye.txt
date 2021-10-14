@@ -1,0 +1,12 @@
+07:00 Genel Merkezden Çıkış
+08:00 Şube1'e varış
+08:30 Şube1'den hareket(Toplam 106 gonderi indirildi)
+08:50 Şube2'e varış
+09:20 Şube2'den hareket(Toplam 96 gonderi indirildi)
+09:40 Şube3'e varış
+10:10 Şube3'ten hareket(Toplam 95 gonderi indirildi)
+10:30 Şube4'e varış
+11:00 Şube4'den hareket(Toplam 97 gonderi indirildi)
+11:20 Şube5'e varış
+11:50 Şube5'ten hareket(Toplam 106 gonderi indirildi)
+12:50 Genel Merkeze Varış

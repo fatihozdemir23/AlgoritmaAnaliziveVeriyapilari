@@ -1,0 +1,1 @@
+g++ -o 180504079 main.cpp AVL.cpp CustomMethod.cpp FileAction.cpp HepsiHarranda.cpp MaxHeap.cpp PQueueCYSS.cpp QueueTemsilci.cpp
